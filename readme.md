@@ -6,6 +6,12 @@
 
 ---
 
+<img width="656" height="971" alt="0_1" src="https://github.com/user-attachments/assets/0a6375da-cf5b-4368-9ec0-931c413c9e00" />
+<img width="597" height="898" alt="0_0" src="https://github.com/user-attachments/assets/500e77a0-1d5f-4e0c-99f8-5dc041f200e5" />
+
+
+---
+
 ## Возможности
 
 - TrueColor (24-bit RGB)
