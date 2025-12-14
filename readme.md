@@ -46,7 +46,7 @@ pip install opencv-python numpy
 ### Базовый запуск
 
 ```bash
-python convert_terminal_hires.py image.jpg
+python ascii.py image.jpg
 ```
 
 По умолчанию:
@@ -58,7 +58,7 @@ python convert_terminal_hires.py image.jpg
 ### Задание ширины вручную
 
 ```bash
-python convert_terminal_hires.py image.jpg 160
+python ascii.py image.jpg 160
 ```
 
 Рекомендации:
@@ -205,7 +205,7 @@ pip install opencv-python numpy
 ### Basic usage
 
 ```bash
-python convert_terminal_hires.py image.jpg
+python ascii.py image.jpg
 ```
 
 Defaults:
@@ -217,7 +217,7 @@ Defaults:
 ### Custom width
 
 ```bash
-python convert_terminal_hires.py image.jpg 160
+python ascii.py image.jpg 160
 ```
 
 Recommendations:
