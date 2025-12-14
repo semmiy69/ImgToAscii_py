@@ -6,15 +6,19 @@
 
 ---
 
-<img width="656" height="971" alt="0_1" src="https://github.com/user-attachments/assets/0a6375da-cf5b-4368-9ec0-931c413c9e00" />
-<img width="597" height="898" alt="0_0" src="https://github.com/user-attachments/assets/500e77a0-1d5f-4e0c-99f8-5dc041f200e5" />
-
 Original photo vs terminal output (this project).
-
-![Original](https://github.com/user-attachments/assets/500e77a0-1d5f-4e0c-99f8-5dc041f200e5)
-![Terminal](https://github.com/user-attachments/assets/0a6375da-cf5b-4368-9ec0-931c413c9e00)
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/500e77a0-1d5f-4e0c-99f8-5dc041f200e5" width="45%" />
+  <img src="https://github.com/user-attachments/assets/0a6375da-cf5b-4368-9ec0-931c413c9e00" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a850446-2e7b-4a50-881c-f217c9e57e34" width="45%" />
+  <img src="https://github.com/user-attachments/assets/5e747c5d-3cdd-43da-aada-24e31284fd1e" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0c7a36c-88a8-4bb6-b72f-fe4b20d0636c" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8ddd1cd6-b332-4631-91a9-510628c14cc8" width="45%" />
+</p>
 ---
 
 ## Возможности
