@@ -26,7 +26,6 @@ Original photo vs terminal output (this project).
 - TrueColor (24-bit RGB)
 - Символ `▀` (2 вертикальных пикселя на один символ)
 - Высококачественный ресайз `LANCZOS`
-- Корректные цвета (без квантизации и дизеринга)
 - Предсказуемый визуальный результат
 
 ---
@@ -40,7 +39,6 @@ Original photo vs terminal output (this project).
 - Больше качества возможно только через:
   - Kitty graphics protocol
   - SIXEL
-  - iTerm inline images
 
 ---
 
@@ -103,17 +101,6 @@ python ascii.py image.jpg 160
 ```
 
 Это максимум, возможный в ANSI.
-
----
-
-## Почему нет параметра «качество»
-
-Потому что в терминале:
-
-- «качество» ≠ масштаб
-- качество определяется **способом кодирования**, а не размером
-
-В данном проекте используется **единственный корректный high-quality метод**.
 
 ---
 
@@ -185,8 +172,6 @@ This project is not ASCII art or stylization. The goal is purely to extract **ma
 - TrueColor (24-bit RGB)
 - `▀` character (2 vertical pixels per terminal cell)
 - High-quality `LANCZOS` resize
-- Correct color handling (no quantization, no destructive dithering)
-- Predictable, physically accurate output
 
 ---
 
@@ -199,8 +184,7 @@ This is the **physical limit of a regular ANSI terminal**:
 - Higher quality is only possible via:
   - Kitty graphics protocol
   - SIXEL
-  - iTerm inline images
-
+  
 ---
 
 ## Requirements
@@ -262,17 +246,6 @@ Result:
 ```
 
 This is the maximum possible in ANSI.
-
----
-
-## Why there is no “quality” parameter
-
-In terminals:
-
-- “quality” ≠ scale
-- quality is defined by the **encoding method**, not by size
-
-This project uses the **only correct high-detail encoding available**.
 
 ---
 
